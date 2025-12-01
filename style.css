@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background-color: #f0f8ff;
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 8px;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
